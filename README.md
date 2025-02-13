@@ -9,4 +9,4 @@ The main purpose is a webpage where i can make a list of friends and then one in
 you just must save the **resources** in a file and then open the **index** with a browser
 
 > [!NOTE]
->if you want to see the entire design you must save the ***.png*** files in a folder called ***assets***
+>Develop by **'Mateo Ramirez V'** 
